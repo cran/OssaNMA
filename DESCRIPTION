@@ -1,7 +1,7 @@
 Package: OssaNMA
 Type: Package
 Title: Optimal Sample Size and Allocation with a Network Meta-Analysis
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person("Fangshu", "Ye", , "fye@iastate.edu", role = c("aut", "cre"))
 Description: A system for calculating the minimum total sample size needed to achieve a prespecified power or the optimal allocation for each treatment group with a fixed total sample size to maximize the power.
@@ -16,8 +16,8 @@ RoxygenNote: 7.2.2
 Suggests: knitr, rmarkdown, netmeta
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2023-04-13 20:16:21 UTC; fangshu
+Packaged: 2023-04-26 02:26:19 UTC; fangshu
 Author: Fangshu Ye [aut, cre]
 Maintainer: Fangshu Ye <fye@iastate.edu>
 Repository: CRAN
-Date/Publication: 2023-04-13 20:30:02 UTC
+Date/Publication: 2023-04-26 04:50:07 UTC
